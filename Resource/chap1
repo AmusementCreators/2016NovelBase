@@ -1,0 +1,16 @@
+<chapter background="Resource/room.png">
+    <paragraph speaker="主人公">にゃーん！</paragraph>
+    <paragraph speaker="主人公">にゃんにゃんにゃーん！！！にゃーん！</paragraph>
+    <paragraph speaker="主人公">わぉん！！</paragraph>
+    <paragraph speaker="主人公">疲れた</paragraph>
+    <paragraph speaker="主人公">今日はどうしようか？</paragraph>
+    <options>
+        <item value="大学に行く">
+            <load from="Resource/chap2" />
+        </item>
+        <item value="寝る">
+            <paragraph speaker="主人公">落単の創成, これこそが本質</paragraph>
+        </item>
+    </options>
+</chapter>
+
